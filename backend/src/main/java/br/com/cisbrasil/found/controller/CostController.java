@@ -8,4 +8,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/cost")
 @CrossOrigin("https:/localhost:3000/")
 public class CostController {
+
 }
