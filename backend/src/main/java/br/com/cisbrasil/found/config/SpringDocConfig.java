@@ -17,6 +17,6 @@ public class SpringDocConfig {
                     new Info()
                     .title("Cost controller")
                     .version("0.0.1")
-                    .description("CIS Brasil monthly cost controller"));
+                    .description("Enterprise monthly cost controller"));
     }
 }
