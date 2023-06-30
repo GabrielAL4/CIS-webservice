@@ -1,5 +1,6 @@
-# CIS webservice
+# Cost Controller WebService
 
 Swagger ui example:
 
-![image](https://github.com/GabrielAL4/CIS-webservice/assets/81835118/14864641-6da1-4a15-9bb3-b504d5d15a26)
+<img width="597" alt="image" src="https://github.com/GabrielAL4/enterprise-cost-controller-webservice/assets/81835118/5203d151-c118-4b3f-89df-c2105a8d2afa">
+
