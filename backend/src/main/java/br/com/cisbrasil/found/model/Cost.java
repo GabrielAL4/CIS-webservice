@@ -8,7 +8,6 @@ import java.util.Date;
 
 @Data
 @Entity
-@Inheritance(strategy = InheritanceType.JOINED)
 public class Cost {
 
     @Id

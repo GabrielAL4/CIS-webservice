@@ -4,7 +4,7 @@ services:
   db:
     image: 'postgres:14.8'
     restart: always
-    container_name: db
+    container_name: cis-db-container
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=1234

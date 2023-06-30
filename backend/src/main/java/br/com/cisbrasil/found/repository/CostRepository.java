@@ -10,7 +10,7 @@ import java.util.List;
 
 @Repository
 @Transactional
-public interface CostRepository extends JpaRepository<Cost, int> {
+public interface CostRepository extends JpaRepository<Cost, Integer> {
     @Query("SELECT c FROM Cost c")
     List<Cost> findAllCosts();
 }
